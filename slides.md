@@ -1,7 +1,7 @@
 ---
-title: Cursor Meetup Bangalore
+title: Cursor Meetup São Paulo
 info: |
-  22 May 2025 · 7 PM – 9 PM · Bengaluru, Karnataka
+  24 October 2025 · 7 PM – 9 PM · São Paulo, Brazil
 class: bg-[#0F0F0F] text-white text-center
 mdc: true
 theme: slidev-theme-cursor
@@ -16,12 +16,12 @@ layout: cover
 ---
 
 <GlowBackground>
-  <h1 class="text-6xl md:text-8xl font-bold tracking-tight text-white">Cursor Bangalore</h1>
+  <h1 class="text-6xl md:text-8xl font-bold tracking-tight text-white">Cursor São Paulo</h1>
 </GlowBackground>
 
 ---
 
-# Community Map
+# Mapa da Comunidade
 
 <a href="https://lu.ma/cursorcommunity/map" target="_blank">
   <img src="./assets/map.png" alt="Community Map" class="mx-auto my-auto" />
@@ -29,20 +29,20 @@ layout: cover
 
 ---
 
-# Welcome
+# Bem-vindo
 
-- **Sanjeed** – Cursor Ambassador India, AI Consultant
-- Thanks to **Lightspeed India Partners** for the venue  
-- Thanks to **Utopia** for being our community partner
+- **Carmelo** – Cursor Ambassador Brasil, AI Consultant
+- Obrigado a **Google** pelo local  
+- Obrigado a **Synaptic AI Consulting** pela parceria com a comunidade
 
 ---
 
 # Agenda
 
-1. Welcome & Introductions  
-2. Cursor **Power Users Tips & Workflows**  
-3. Special Guest Speaker – **Eric Zakariasson** (Cursor)  
-4. Networking & Community  
+1. Bem-vindo & Introduções  
+2. Cursor **Dicas de Usuários & Fluxos de Trabalho**  
+3. Palestrante Especial – **Daniel Adornes** (Cursor)  
+4. Networking & Comunidade  
 
 ---
 
@@ -100,10 +100,10 @@ _Topic: Q&A with Bangalore Cursor Community_
 
 ---
 
-# Join the Cursor India Group
+# Join the Cursor Brasil Group
 
 <div class="flex items-center justify-center h-full">
-<img src="./assets/cursor_india.png" alt="Cursor India" class="w-96" />
+<img src="./assets/cursor_brasil.png" alt="Cursor Brasil" class="w-96" />
 </div>
 
 ---
