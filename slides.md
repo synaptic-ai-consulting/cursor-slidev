@@ -103,7 +103,7 @@ _Topic: Q&A with Bangalore Cursor Community_
 # Join the Cursor Brasil Group
 
 <div class="flex items-center justify-center h-full">
-<img src="./assets/cursor_brasil.png" alt="Cursor Brasil" class="w-96" />
+<img src="./assets/cursor_india.png" alt="Cursor Brasil" class="w-96" />
 </div>
 
 ---
